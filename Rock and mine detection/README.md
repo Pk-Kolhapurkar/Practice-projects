@@ -28,7 +28,11 @@ The dataset used for this project is the Sonar dataset. Each sample consists of 
 
 ## Functionalities
 Data Loading: Loads the dataset into a Pandas DataFrame.
+
 Data Preprocessing: Separates features and target labels, and splits the dataset into training and testing sets.
+
 Model Training: Trains a Logistic Regression model on the training data.
+
 Model Evaluation: Evaluates the model's accuracy on both the training and testing data.
+
 Prediction: Uses the trained model to make predictions on new data.
